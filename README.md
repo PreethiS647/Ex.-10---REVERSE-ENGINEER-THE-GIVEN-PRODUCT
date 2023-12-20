@@ -1,6 +1,6 @@
 # Ex. 10 - REVERSE ENGINEER THE GIVEN PRODUCT
 
-### DATE: 
+### DATE: 19-12-23
 
 ## AIM: 
 ### To reverse engineering the product and prototyping the same in 3D printer.
@@ -16,11 +16,17 @@
 ### Step 3.:- Save the file and export as .stl
 ### Step 4.:- Check all Electrical connections in the 3D printer.
 ### Step 5.:- First we install the software related the 3D printer (idea maker, ultimaker etc.)In idea maker first open the software and click the open file option.
+![image](https://github.com/PreethiS647/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/147313372/6e612a4c-56f4-41d6-9ff2-dd04ce55a622)
+
 ### Step 6.:- Select the Pan option and select the extruder (left or right) for printing the design.
 ### Step 7.:- Select the Move option for design print position in build tack plate and then after select the Rotate option for rotating the design easily printed and used low print material.
+![image](https://github.com/PreethiS647/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/147313372/e8583080-6e80-498d-9049-6063a57556d4)
+
 ### Step 8.:- select the Scale option for design scale according to build tack plate area and then
 ### after click the start option and select printing option standard as shown in below figure.
 ### Step 9.:- After completing the all setting then click the Slice option and export the file in gcode Format.
+![image](https://github.com/PreethiS647/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/147313372/c187aedf-afe5-40a8-8245-15adb56611e8)
+
 ### Step 10.:- After generate the gcode format then follow the these instruction 
   ###   ●	Switch on the 3d printer.
   ###   ●	Place your Pen drive in USB.
@@ -31,12 +37,14 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
+![image](https://github.com/PreethiS647/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/147313372/3e6c3644-a1e9-47c6-a621-815c6ce792db)
 
 ### Output:
+![image](https://github.com/PreethiS647/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/147313372/0a822eb8-571c-45be-8b23-046648ad07fe)
 
 
-### Name:
-### Register Number:
+### Name:Preethi S
+### Register Number:23008250
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
